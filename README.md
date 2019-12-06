@@ -1,2 +1,2 @@
 #PythonMyFrameVip2
-二期VIP课程实战项目
+实战项目
